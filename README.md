@@ -13,7 +13,7 @@ In the "Magnetic Actuation Animation Script.py" script, you will find:
 - Others are meant for animation purposes
 - All paths are clearly seperated by which category they fall into
 - To chose a path simply uncomment the chosen path and ensure that other paths have been commented out
-- In addition to plotting the magnets and beam deformation the script will save the entire set of movements in a .gif file
+- In addition to plotting the magnet positions and beam deformations the script will save the entire set of movements in a .gif file
 - The user has the choice between seeing the phyisical magnets move, or just having their relative position show in the animation
 - Note that just like the paths the choice of animation is done by uncommenting the one you wish to have, and commenting the one you do not want to have
 - An additional note: All symmetric paths are recommended to be recorded in 15 to 30 frames per second (fps) with the "Complex Path" being recommended to be recorded between 5 to 10 fps
@@ -25,7 +25,7 @@ In the "Magnetic Actuation Statistics Script.py" script, you will find:
 - The choice is made by uncommenting the chosen parameter set and commenting out those that were not chosen
 - Note that depending on the number of parameters in the chosen set you will need to comment / uncomment the correct legend for the errorbar and distance bar charts.
 - Also ensure that the correct parameter numbers appear on the aformentioned errorbars and bar charts
-- The function will also plot the magnets and beam deformation for each parameters in the set
+- The function will also plot the magnet positions and beam deformations for each parameters in the set
 
 In the "Animations" folder, you will find:
 - 12 .gif files
